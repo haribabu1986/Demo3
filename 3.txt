@@ -1,2 +1,6 @@
-File 3
+<<<<<<< HEAD
+File 3...
 Update 2
+=======
+File 3...
+>>>>>>> Branch-1
